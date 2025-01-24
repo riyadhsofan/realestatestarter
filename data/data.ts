@@ -1,4 +1,4 @@
-export const appartmentTypeData = [
+export const apartmentTypeData = [
   {
     id: 1,
     icon: "/images/a1.png",
@@ -8,7 +8,7 @@ export const appartmentTypeData = [
   {
     id: 2,
     icon: "/images/a2.png",
-    type: "Appartments",
+    type: "Apartments",
     number: 22,
   },
   {
