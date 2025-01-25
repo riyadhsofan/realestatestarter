@@ -27,12 +27,12 @@ const CitySlider = () => {
     <Carousel
       arrows={true}
       autoPlay={true}
-      swipeable={false}
-      draggable={false}
-      // showDots={true}
       responsive={responsive}
       infinite
       autoPlaySpeed={1000}
+      // swipeable={false}
+      // draggable={false}
+      // showDots={true}
       // // autoPlay={this.props.deviceType !== "mobile" ? true : false}
       // ssr={true} // means to render carousel on server-side.
       // keyBoardControl={true}

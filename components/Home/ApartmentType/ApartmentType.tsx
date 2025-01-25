@@ -3,7 +3,7 @@ import { apartmentTypeData } from "@/data/data";
 import React from "react";
 import ApartmentTypeCard from "./ApartmentTypeCard";
 
-const ApartmentType = () => {
+const ApartmentType: React.FC = () => {
   return (
     <div className="pt-16 pb-16 ml-40 mr-28 ">
       <div className="w-[80%] mx-auto"></div>
