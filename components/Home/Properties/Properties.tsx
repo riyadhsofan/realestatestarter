@@ -1,6 +1,5 @@
 import SectionHeading from "@/components/Helper/SectionHeading";
 import { properties } from "@/data/data";
-import Image from "next/image";
 import React from "react";
 import PropertyCard from "./PropertyCard";
 

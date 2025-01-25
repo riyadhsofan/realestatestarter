@@ -3,6 +3,7 @@ import Hero from "./Hero/Hero";
 import ApartmentType from "./ApartmentType/ApartmentType";
 import Properties from "./Properties/Properties";
 import CityProperties from "./CityProperties/CityProperties";
+import BuildingFeature from "./BuildingFeature/BuildingFeature";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <ApartmentType />
       <Properties />
       <CityProperties />
+      <BuildingFeature />
     </div>
   );
 };
